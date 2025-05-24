@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning **Web Development, Cloud Technologies**
 - 🧠 Focused on **Full Stack Development and DSA**
 - 🤝 Looking to collaborate on exciting **Tech Projects**
-- 📫 Reach me at: yasheshpatel@example.com *(replace with your real email)*
+- 📫 Reach me at: yasheshpatel425@example.com 
 
 ---
 
@@ -17,9 +17,9 @@
 
 ### 🔗 Socials:
 <p align="left">
-  <a href="https://www.linkedin.com/in/your-linkedin-id/" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" height="30" width="40" /></a>
-  <a href="https://www.codechef.com/users/your-codechef-id" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codechef.svg" height="30" width="40" /></a>
-  <a href="https://leetcode.com/your-leetcode-id/" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" height="30" width="40" /></a>
+  <a href="www.linkedin.com/in/yashesh-patel-97196424b" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" height="30" width="40" /></a>
+  <a href="https://www.codechef.com/users/yasheshpatel" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codechef.svg" height="30" width="40" /></a>
+  <a href="https://leetcode.com/u/yasheshpatel0537/" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" height="30" width="40" /></a>
 </p>
 
 ---
