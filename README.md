@@ -10,17 +10,19 @@
 ---
 
 ### 📊 GitHub Stats:
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yasheshpatel4&layout=compact&theme=radical)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yasheshpatel4&show_icons=true&theme=radical)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yasheshpatel4&layout=compact&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yasheshpatel4&show_icons=true&theme=tokyonight)
 
 ---
 
 ### 🔗 Socials:
 <p align="left">
-  <a href="www.linkedin.com/in/yashesh-patel-97196424b" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/yashesh-patel-97196424b" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" height="30" width="40" /></a>
   <a href="https://www.codechef.com/users/yasheshpatel" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codechef.svg" height="30" width="40" /></a>
   <a href="https://leetcode.com/u/yasheshpatel0537/" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" height="30" width="40" /></a>
+  <a href="https://www.hackerrank.com/profile/yasheshpatel425" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" height="30" width="40" /></a>
 </p>
+
 
 ---
 
